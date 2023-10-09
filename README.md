@@ -17,7 +17,7 @@ We at EMPA specialize in transformational data projects, offering tailored solut
 
 Meet our dedicated team of strategy consultants and data experts who are the backbone of EMPA's dynamic environment. Our diversity is our strength, enabling us to deliver innovative and tailored solutions to every challenge.
 
-![Team Photo]([team_photo_url_here](https://empa.co/_next/image/?url=%2Fimages%2Fteam%2Fempa_group.png)
+![Team Photo](team_photo_url_here](https://empa.co/_next/image/?url=%2Fimages%2Fteam%2Fempa_group.png)
 
 ## Technology Partners
 
